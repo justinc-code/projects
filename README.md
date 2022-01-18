@@ -1,2 +1,2 @@
 # Justin's projects
-# Compression algorthim, anomaly detection, object detection
+Compression algorthim, anomaly detection, object detection
