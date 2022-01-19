@@ -477,8 +477,8 @@ istream &operator>>(istream &stream, Ratio &r){
     stream >> top >> div >> bottom;
 
     if(div == '/' && top != ' ' && top != '\n' && bottom != ' ' && bottom != '\n'){
-        Ratio nice(top,bottom);
-        r = nice;
+        Ratio create_ratio(top,bottom);
+        r = create_ratio;
     }
 
     else{
