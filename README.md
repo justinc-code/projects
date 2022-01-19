@@ -1,2 +1,7 @@
 # Justin's projects
-Compression algorthim, object detection, command line ratio logic, bluetooth car integration
+
+## Python Projects
+Compression algorthim and object detection
+
+## C++ Projects
+Command line ratio logic and bluetooth car integration
