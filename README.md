@@ -1,2 +1,2 @@
 # Justin's projects
-Compression algorthim, anomaly detection, object detection
+Compression algorthim, object detection, command line ratio logic, bluetooth car integration
